@@ -15,13 +15,19 @@ C:/Users/Andris/Documents/GitHub/VRSetup/VR Room Project Andris
 -logFile
 Logs/AssetImportWorker9.log
 -srvPort
-56413
+52079
 Successfully changed project path to: C:/Users/Andris/Documents/GitHub/VRSetup/VR Room Project Andris
 C:/Users/Andris/Documents/GitHub/VRSetup/VR Room Project Andris
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 1176.79 ms, found 10 plugins.
-Preloading 1 native plugins for Editor in 13.90 ms.
+Refreshing native plugins compatible for Editor in 3093.96 ms, found 10 plugins.
+Preloading 1 native plugins for Editor in 3151.91 ms.
 Initialize engine version: 2020.3.17f1 (a4537701e4ab)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/Andris/Documents/GitHub/VRSetup/VR Room Project Andris/Assets
 GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R5 Graphics (ID=0x98e4)
+    Vendor:   
+    VRAM:     3383 MB
+    Driver:   26.20.11026.12001
